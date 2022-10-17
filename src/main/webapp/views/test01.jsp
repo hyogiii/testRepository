@@ -12,6 +12,7 @@
 	<ul>
 		<li>제작중</li>
 		<li>제작완료</li>
+		<li>살려주세요</li>
 	</ul>
 </body>
 </html>
